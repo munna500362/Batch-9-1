@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navber{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 70px;
+    /* background-color: red; */
+    align-items: center;
+}
+
+.navber-btn button{
+    padding: 10px 20px;
+}
+
+.header-section{
+    background-image: url('Image/Hero-bg.png');
+    background-repeat: no-repeat;
+    background-position:center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.header-section{
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.header-img{
+    
+}
